@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Popy</h1>
 <h3 align="center">A passionate QA Engineer</h3>
 
-- 🔭 I’m currently working [ Web Automation Project](file:///C:/Users/User/Desktop/Api_Testing/newman/2nd_Testing-2024-03-31-16-05-53-242-0.html)
 
 - 📫 How to reach me **popisarkar023@gmail.com**
 
